@@ -4,7 +4,7 @@ title: "Computer Vision Projects"
 permalink: "/computer vision/"
 author_profile: true
 header:
-  image: "/images/nov.jpg"
+  image: "/images/nov.JPG"
 ---
 
 {% include base_path %}

@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi Cai"
-  avatar           : "images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio-photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My portfolio."
   location         : "Chengdu, Sichuan, China"
   email            : "2288908@student.gla.ac.uk"
